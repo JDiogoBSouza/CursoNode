@@ -28,6 +28,7 @@
   },
   "homepage": "https://github.com/OboyDG/CursoNode#readme",
   "dependencies": {
-    "bootstrap": "^4.5.2"
+    "bootstrap": "^4.5.2",
+    "serialport": "^9.0.1"
   }
 }
