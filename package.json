@@ -30,5 +30,6 @@
   "dependencies": {
     "bootstrap": "^4.5.2",
     "serialport": "^9.0.1"
-  }
+  },
+  "devDependencies": {}
 }
